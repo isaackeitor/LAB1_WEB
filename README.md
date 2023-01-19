@@ -62,3 +62,7 @@ Preguntas:
                                         
         (BUT I'M NO PSYCHOLOGIST...) 
 
+4. Traduzcan la siguiente frase a clave morse: ye shall be as gods
+
+    @morse <ye shall be as gods>
+    -.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
