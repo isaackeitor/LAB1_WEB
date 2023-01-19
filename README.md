@@ -19,3 +19,46 @@ Preguntas:
     : 
     Hello World!
 
+3. En el emulador de apple, corran el software appleteach1 y luego el programa 34, corran todo el test, cuál fue su resultado?
+
+     MY PROFILE RANKING OF YOU INDICATES:                                                                
+                                        
+                FIRST AND FOREMOST...          
+                                                
+        YOU ARE A LOVING PERSON              
+                                                
+                                                
+                (ANY KEY...)  
+
+                    NEXT...                        
+                                                    
+            YOU ARE RIGHTEOUS                    
+                                                    
+                                                    
+                (ANY KEY...)  
+
+                THIRDLY...                     
+                                        
+        YOU TAKE ADVANTAGE OF ANY OPPORTUNITY
+                                                      
+                                        
+                (ANY KEY...) 
+
+                NEXT TO LAST...                
+                                        
+        YOU HAVE SEXUAL INCLINATIONS         
+                                        
+                                        
+                (ANY KEY...)
+
+                LASTLY...                      
+                                        
+        YOU THINK THINGS OUT INTELLIGENTLY   
+                                        
+                                        
+                (ANY KEY...)
+
+            SO NOW YOU KNOW...               
+                                        
+        (BUT I'M NO PSYCHOLOGIST...) 
+
